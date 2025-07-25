@@ -100,13 +100,6 @@
 
 ---
 
-## 🖼 스크린샷 & 시연
-![s1](https://github.com/user-attachments/assets/cf8b2e74-f9d4-4dbf-8f2d-84eb95a00624)
-![s2](https://github.com/user-attachments/assets/23a08465-d2d0-4b38-b26a-067410473f1a)
-![s3](https://github.com/user-attachments/assets/2aa87c9c-b3e3-4f77-9e00-b49e721acbd7)
-
----
-
 ## ⚒ 개발 환경
 - **엔진** : Unity  
 - **언어** : C#  
