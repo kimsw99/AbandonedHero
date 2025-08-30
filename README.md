@@ -93,7 +93,7 @@
 ---
 
 # 플레이 영상
-게임 플레이 파일 링크 
+게임 플레이 파일 링크
 
 👉 [https://drive.google.com/file/d/1DDmq1EJj8pSQst4ilABDLe3uOB55E-z_/view?usp=sharing](https://drive.google.com/file/d/1DX1u1msyfEayXbN70uSh6A9lPEeT_VAT/view?usp=sharing)  
 (현재 Repository에는 사운드 및 일부 아이콘 이미지 유료에셋 사용으로 인해 소스코드만 등록되어 있습니다.)
