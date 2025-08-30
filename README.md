@@ -99,4 +99,5 @@
 (현재 Repository에는 사운드 및 일부 아이콘 이미지 유료에셋 사용으로 인해 소스코드만 등록되어 있습니다.)
 
 [![Abandoned hero gif](https://github.com/user-attachments/assets/5c1c63fb-8d77-4e36-aa44-c6b9c1338e82)](https://www.youtube.com/watch?v=8UFQXjrNsRk)
+
 👉 이미지를 클릭하면 YouTube 영상으로 이동합니다.
